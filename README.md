@@ -13,5 +13,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto iremos desenvolver uma versão simplificada de um sistema de roteiro de viagem!
 
-## Veja a aplicação acessando o link: https://daviziih.github.io/nlw-journey-js/
+Veja a aplicação acessando o link: https://daviziih.github.io/nlw-journey-js/
 
